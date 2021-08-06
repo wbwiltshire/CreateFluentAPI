@@ -8,7 +8,7 @@ There are several ways to create a Fluent API:
   
 ### Extension methods
 * Best for libraries you don't control and just want to extend
-### User Interface / Sub-classes
+### Use Interfaces / Sub-classes
 * Best for libraries you design and support
 
 ### Requirements
