@@ -1,5 +1,5 @@
 # CreateFluentAPI
-A Tutorial on creating Fluent API for a C# library
+A tutorial on creating a Fluent API for a C# library
 
 There are several ways to create a Fluent API:
 
